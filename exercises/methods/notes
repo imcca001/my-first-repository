@@ -1,0 +1,3 @@
+Mutates the caller - This is method dependent.  Methods like pop mutate the caller by permanently altering the objects they are operating on. Unlikea method like pop, last does not mutate the caller.  It references on of the attributes of the object but does not alter any of them. 
+
+In order to know which methods mutat the caller you have to memorize it with any different methods. 
